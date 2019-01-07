@@ -27,6 +27,7 @@ public class CreateFreemarker {
             map.put("message", "欢迎来到神奇的品优购世界！");
             //6.创建Writer对象
             Writer out = new FileWriter(new File("d:\\test.html"));
+            //创建Writer对象创建Writer对象创建Writer对象创建Writer对象创建Writer对象
             //7.输出
             template.process(map, out);
             //8.关闭Writer对象
