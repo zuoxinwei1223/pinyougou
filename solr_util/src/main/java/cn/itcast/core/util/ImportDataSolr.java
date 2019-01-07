@@ -50,5 +50,12 @@ public class ImportDataSolr {
         System.out.println("123213");
         System.out.println("123213");
         System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");
     }
 }
