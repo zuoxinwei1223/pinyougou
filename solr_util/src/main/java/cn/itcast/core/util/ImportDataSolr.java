@@ -47,5 +47,8 @@ public class ImportDataSolr {
         ImportDataSolr importUtil = (ImportDataSolr)applicationContext.getBean("importDataSolr");
         importUtil.importDBDataToSolr();
         System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");
+        System.out.println("123213");
     }
 }
